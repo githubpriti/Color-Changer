@@ -17,7 +17,7 @@ What I learned in this:
 ![lco](./Web%20capture_2-2-2023_14921_127.0.0.1.jpeg)
 ![lco](./Web%20capture_2-2-2023_14845_127.0.0.1.jpeg)
 ![lco](./Web%20capture_2-2-2023_1485_127.0.0.1.jpeg)
-## [Live Project Link](https://dynamic-squirrel-191385.netlify.app)
+## [Live Project Link](https://color-changer-green.vercel.app/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
